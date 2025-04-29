@@ -76,7 +76,7 @@ jobs:
           FOD_API_URL: "https://api.ams.fortify.com/"
           FOD_TENANT: "FranklinBank24"
           FOD_USER: "Carlos Merlos"
-          FOD_PAT: "N2g5bkhZc2FcalJiUnI5VGtMVXJ5WDhIXypVeGQ50"
+          FOD_PAT: "NTNHUUFWV3Fzdjw2Q0cwQ2J6ej13aiM0YkZUbFhu0"
           FOD_RELEASE_ID: "1151626"
           FOD_UPLOADER_OPTS: "-ep 2 -pp 0 -I 1 -apf"
           FOD_UPLOADER_NOTES: 'Triggered by GitHub Actions (${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})'
