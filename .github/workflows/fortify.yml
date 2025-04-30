@@ -117,7 +117,7 @@ jobs:
           # DO_POLICY_CHECK: true                          # Fail pipeline if security policy outcome is FAIL
           # POLICY_CHECK_ACTION: <URL or file>             # Customize security policy checks
           # POLICY_CHECK_EXTRA_OPTS: --on-unsigned=ignore  # Pass extra options to policy check action
-          DO_JOB_SUMMARY: true                           # Generate workflow job summary
+          # DO_JOB_SUMMARY: true                           # Generate workflow job summary
           # JOB_SUMMARY_ACTION: <URL or file>              # Customize job summary
           # JOB_SUMMARY_EXTRA_OPTS: --on-unsigned=ignore   # Pass extra options to job summary action
           # DO_PR_COMMENT: true                            # Generate PR comments, only used on pull_request triggers
